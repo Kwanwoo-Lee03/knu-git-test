@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\\day01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|C:\\c\\day01\\day01\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F83CEFB5-4860-41AD-91E0-3F5E4CE4678C}|day01\\day01.vcxproj|solutionrelative:day01\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "11.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\11.cpp",
+              "RelativeDocumentMoniker": "day01\\11.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\11.cpp",
+              "RelativeToolTip": "day01\\11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T03:54:06.417Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "10.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\10.cpp",
+              "RelativeDocumentMoniker": "day01\\10.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\10.cpp",
+              "RelativeToolTip": "day01\\10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T03:43:09.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "8.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\8.cpp",
+              "RelativeDocumentMoniker": "day01\\8.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\8.cpp",
+              "RelativeToolTip": "day01\\8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T02:52:03.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "9.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\9.cpp",
+              "RelativeDocumentMoniker": "day01\\9.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\9.cpp",
+              "RelativeToolTip": "day01\\9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T03:32:56.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "7.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\7.cpp",
+              "RelativeDocumentMoniker": "day01\\7.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\7.cpp",
+              "RelativeToolTip": "day01\\7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T02:42:39.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "6.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\6.cpp",
+              "RelativeDocumentMoniker": "day01\\6.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\6.cpp",
+              "RelativeToolTip": "day01\\6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T02:21:35.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "5.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\5.cpp",
+              "RelativeDocumentMoniker": "day01\\5.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\5.cpp",
+              "RelativeToolTip": "day01\\5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T02:09:47.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "4.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\4.cpp",
+              "RelativeDocumentMoniker": "day01\\4.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\4.cpp",
+              "RelativeToolTip": "day01\\4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T01:39:21.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\3.cpp",
+              "RelativeDocumentMoniker": "day01\\3.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\3.cpp",
+              "RelativeToolTip": "day01\\3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T01:25:18.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "2.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\2.cpp",
+              "RelativeDocumentMoniker": "day01\\2.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\2.cpp",
+              "RelativeToolTip": "day01\\2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T01:14:32.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "1.cpp",
+              "DocumentMoniker": "C:\\c\\day01\\day01\\1.cpp",
+              "RelativeDocumentMoniker": "day01\\1.cpp",
+              "ToolTip": "C:\\c\\day01\\day01\\1.cpp",
+              "RelativeToolTip": "day01\\1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T00:12:21.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
